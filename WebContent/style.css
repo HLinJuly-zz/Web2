@@ -1,0 +1,28 @@
+.style1 {
+	MARGIN-RIGHT: auto;
+	MARGIN-LEFT: auto;
+	text-align: center;
+}
+.style1 table{
+	MARGIN-RIGHT: auto;
+	MARGIN-LEFT: auto;
+	text-align: center;
+	border:1px solid black;
+	border-collapse:collapse;
+}
+.style1 table th{
+	border:1px solid black;
+	height:50px;
+	width:150px;
+}
+.style2{
+	position:absolute;
+	left:20px;
+	top:120px;
+	MARGIN-RIGHT: auto;
+	MARGIN-LEFT: auto;
+	width:100px;
+	height:200px;
+	border:1px solid black;
+	text-align: center;
+}
